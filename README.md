@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust for discord bot.<br>🎲 Fun fact: I still don`t drink coffee. <br>📫 How to reach me: rafichigarov@gmail.com</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust for discord bot and making phone game on MAUI C#.<br>🎲 Fun fact: I still don`t drink coffee. <br>📫 How to reach me: rafichigarov@gmail.com</p>
 
 ###
 
@@ -42,6 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
 </div>
 
 ###
@@ -63,6 +65,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RafiBG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiBG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafiBG&locale=en&hide=javascript,php,twig,scss,xslt&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=RafiBG&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
