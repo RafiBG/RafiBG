@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning Rust for discord bot and making phone game on MAUI C#.<br>🎲 Fun fact: I still don`t drink coffee. <br>📫 How to reach me: rafichigarov@gmail.com</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently taking my exams.<br>🎲 Fun fact: I still don`t drink coffee. <br>📫 How to reach me: rafichigarov@gmail.com</p>
 
 ###
 
